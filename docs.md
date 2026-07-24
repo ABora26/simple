@@ -1,4 +1,4 @@
-This documentation describes how to use the Pavel automatic toothbrush.
+This documentation describes how to use the Pavel automatic toothbrush which is not a real toothbrush!
 
 This documentation describes how to use the Karel robotic toothbrush.
 
